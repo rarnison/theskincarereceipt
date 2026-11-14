@@ -1,0 +1,6 @@
+# local preview tooling, not part of the site
+.claude/
+
+# OS clutter
+Thumbs.db
+.DS_Store
